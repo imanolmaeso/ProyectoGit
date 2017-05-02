@@ -12,5 +12,6 @@ public class Ejercicio {
 		System.out.println("El resultado de la suma es: "+(n3=n1+n2));
 		System.out.println("n3 tiene ahora el resultado de la suma");
 		System.out.println("Lo comprobamos ---> "+n3);
+		System.out.println("holaaaaaa");
 	}
 }
